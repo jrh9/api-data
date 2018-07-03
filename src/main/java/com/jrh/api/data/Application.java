@@ -1,4 +1,4 @@
-package com.jrh.spring.boot.starter.app;
+package com.jrh.api.data;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
