@@ -1,7 +1,7 @@
-# spring-boot-starter-app
+# api-data
 ## Synopsis
 
-Simple starter kit for Spring Boot application
+Service that manages API calls to third-party
 
 ## How to Run
 
@@ -9,7 +9,7 @@ Simple starter kit for Spring Boot application
 * Clone this repository
 
 ````bash
-$ git clone git@github.com:jrh9/spring-boot-starter-app.git
+$ git clone git@github.com:jrh9/api-data
 ````
 
 Ensure system setup is correct
