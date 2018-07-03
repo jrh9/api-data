@@ -16,7 +16,7 @@ public class ApiDataController {
     @GetMapping("/")
     public ResponseEntity helloWorld() {
         return ResponseEntity.ok()
-                .body(apiDataService.helloWorld());
+                .body(apiDataService.getZillowSearchResults());
 
     }
 }
